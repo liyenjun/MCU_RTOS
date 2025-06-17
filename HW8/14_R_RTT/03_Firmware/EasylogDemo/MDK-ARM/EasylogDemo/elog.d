@@ -1,0 +1,9 @@
+easylogdemo\elog.o: ..\Middleware\Easylog\src\elog.c
+easylogdemo\elog.o: ..\Middleware\Easylog\inc\elog.h
+easylogdemo\elog.o: ..\Middleware\Easylog\inc\elog_cfg.h
+easylogdemo\elog.o: C:\Keil_v5\ARM\AC5\Bin\..\include\stdint.h
+easylogdemo\elog.o: C:\Keil_v5\ARM\AC5\Bin\..\include\stddef.h
+easylogdemo\elog.o: C:\Keil_v5\ARM\AC5\Bin\..\include\stdbool.h
+easylogdemo\elog.o: C:\Keil_v5\ARM\AC5\Bin\..\include\string.h
+easylogdemo\elog.o: C:\Keil_v5\ARM\AC5\Bin\..\include\stdarg.h
+easylogdemo\elog.o: C:\Keil_v5\ARM\AC5\Bin\..\include\stdio.h
